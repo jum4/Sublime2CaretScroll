@@ -1,0 +1,4 @@
+[  
+    { "keys": ["super+up"], "command": "scroll_up_with_caret"},
+    { "keys": ["super+down"], "command": "scroll_down_with_caret"}
+]  
